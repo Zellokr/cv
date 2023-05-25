@@ -73,7 +73,7 @@ import Skill from '../Skill.vue'
                 name="Español"
             />
             <Language
-                :rate="4"
+                :rate="3"
                 name="Inglés"
             />
         </div>
@@ -95,12 +95,12 @@ import Skill from '../Skill.vue'
             :number="6.5"
         />
         <Skill
-            name="C++"
+            name="Typescript"
             :number="5"
         />
         <Skill
             name="Python"
-            :number="6"
+            :number="4"
         />
         <span class="font-bold text-3xl text-gray-200 mt-12 my-6 lg:mt-10 text-center uppercase tracking-wide">Hobbies</span>
         <div class="flex justify-center items-center lg:items-start gap-6">
