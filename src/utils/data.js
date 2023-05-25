@@ -60,5 +60,11 @@ export const experiences = [
         name: "Personal investigador / Desarrollador aplicación WEB para proyecto UNICRINF",
         place: "Universidad de La Laguna",
         date:"Julio 2020 - Diciembre 2021"
+    },
+    {
+        icon: 'BriefcaseIcon',
+        name: "Frontend Developer Vuejs",
+        place: "Ezentis Tecnología SLU",
+        date:"Marzo 2022 - Actualidad"
     }
 ]
