@@ -8,7 +8,7 @@
             <span class="font-bold text-3xl text-blackblue uppercase">kristian martínez</span>
             <span class=" text-gray-100 text-xl font-semibold uppercase tracking-widest invisible lg:visible"> ingeniero informático</span>
             <p class=" text-gray-100 lg:text-left text-center font-medium lg:text-lg w-8/12 -mt-4 lg:-mt-0">
-                Hola, mi nombre es Kristian. Soy Ingeniero informático apasionado por el diseño y desarrollo web, actualmente estoy cursando un máster en Ciberseguridad e Inteligencia de Datos
+                Hola, mi nombre es Kristian. Soy Ingeniero informático apasionado por el diseño y desarrollo web
             </p>
         </div>
         <div class="flex flex-col w-1/5 items-center">
