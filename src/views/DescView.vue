@@ -43,7 +43,7 @@ import { educations, experiences } from '@/utils/data.js'
                 <div class="flex flex-col">
                     <div class="flex justify-around">
                         <a href="https://gameboycsskr.netlify.app/"> Gameboy con CSS y JS (Con animación de encendido)</a>
-                        <a href="https://linuxcsskr.netlify.app/"> Ubuntu con CSS y JS (En desarrollo) </a>
+                        <a href="https://linux-ts.netlify.app/"> Ubuntu con CSS y JS (typescript)  </a>
                     </div>
                 </div>
             </div>
