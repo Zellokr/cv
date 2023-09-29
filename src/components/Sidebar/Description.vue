@@ -92,7 +92,7 @@ import Skill from '../Skill.vue'
         />
         <Skill
             name="JS"
-            :number="6.5"
+            :number="6"
         />
         <Skill
             name="Typescript"
