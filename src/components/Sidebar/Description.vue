@@ -80,15 +80,15 @@ import Skill from '../Skill.vue'
         <span class="font-bold text-3xl text-gray-200 uppercase mt-12 lg:mt-12 mb-4 text-center tracking-wide">Skills</span>
         <Skill
             name="HTML"
-            :number="7.5"
+            :number="7"
         />
         <Skill
             name="CSS"
-            :number="6.5"
+            :number="5"
         />
         <Skill
             name="Vuejs"
-            :number="6.5"
+            :number="7"
         />
         <Skill
             name="JS"
@@ -97,10 +97,6 @@ import Skill from '../Skill.vue'
         <Skill
             name="Typescript"
             :number="5"
-        />
-        <Skill
-            name="Python"
-            :number="4"
         />
         <span class="font-bold text-3xl text-gray-200 mt-12 my-6 lg:mt-10 text-center uppercase tracking-wide">Hobbies</span>
         <div class="flex justify-center items-center lg:items-start gap-6">
